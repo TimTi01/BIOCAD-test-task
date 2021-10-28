@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'TTNorms-Light';
+  src: url('./fonts/TTNorms-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTNorms-Regular';
+  src: url('./fonts/TTNorms-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTNorms-Medium';
+  src: url('./fonts/TTNorms-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTNorms-Bold';
+  src: url('./fonts/TTNorms-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
